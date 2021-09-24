@@ -9,7 +9,7 @@
 </p>
 
 <div>
-<img align="right" alt="GIF" src="assets/coding.gif" width="300px />
+<img align="right" alt="GIF" src="assets/coding.gif" width="300px" />
 </div>
 
 
