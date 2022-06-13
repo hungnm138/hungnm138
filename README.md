@@ -1,6 +1,6 @@
 ![Cover](assets/cover-memoji.png)
 
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="assets/hi.gif" width="30px"/> </h1>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="assets/hi.gif" width="30"/> </h1>
 
 <p align="center">
   <img src="assets/badge-awesome.svg" alt="Awesome Badge"/>
@@ -9,7 +9,7 @@
 </p>
 
 <div>
-<img align="right" alt="GIF" src="assets/coding.gif" width="300px" />
+<img align="right" alt="GIF" src="assets/coding.gif" width="300" />
 </div>
 
 
@@ -21,15 +21,15 @@
 
 🏝️ Living in Vietnam 🇻🇳
 
-<img src="assets/coin.gif" width="15px"/> True Story: My smartness 💡 lies in my laziness 😴
+<img src="assets/coin.gif" width="15"/> True Story: My smartness 💡 lies in my laziness 😴
 
-<img src="assets/medal.gif" width="15px"/> Have a look at my Repos💡 & do Leave a STAR⭐️ if you like my work👨‍💻.
+<img src="assets/medal.gif" width="15"/> Have a look at my Repos💡 & do Leave a STAR⭐️ if you like my work👨‍💻.
 
 <p align="center">
   <img src="assets/divider.gif" >
 </p>
 
-<h1> My Skills <img src="assets/skills.gif" width="40px" style="margin-bottom:-8px"/> </h1>
+<h1> My Skills <img src="assets/skills.gif" width="40" style="margin-bottom:-8px"/> </h1>
 
 ## 👉 Programming languages
 
@@ -108,7 +108,7 @@ hungnm.skills.addAll([...languages, ...frameworks, ...databases]);
   <img src="assets/divider.gif" >
 </p>
 
-<h1> Contact Me <img src="assets/handshake.gif" width="100px" style="margin-bottom:-8px"/> </h1>
+<h1> Contact Me <img src="assets/handshake.gif" width="100" style="margin-bottom:-8px"/> </h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/hungnm138/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
@@ -124,7 +124,7 @@ hungnm.skills.addAll([...languages, ...frameworks, ...databases]);
   <img src="assets/divider.gif" >
 </p>
 
-<img src="assets/coin.gif" width="15px"/> Fun fact:
+<img src="assets/coin.gif" width="15"/> Fun fact:
 I once solved the world's oldest question with a single line of Dart
 
 ```dart
