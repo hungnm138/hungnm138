@@ -1,6 +1,6 @@
 ![Cover](assets/cover-memoji.png)
 
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="assets/hi.gif" width="30"/> </h1>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="assets/hi.webp" width="30"/> </h1>
 
 <p align="center">
   <img src="assets/badge-awesome.svg" alt="Awesome Badge"/>
@@ -9,7 +9,7 @@
 </p>
 
 <div>
-<img align="right" alt="GIF" src="assets/coding.gif" width="300" />
+<img align="right" alt="GIF" src="assets/coding.webp" width="300" />
 </div>
 
 
@@ -21,15 +21,15 @@
 
 🏝️ Living in Vietnam 🇻🇳
 
-<img src="assets/coin.gif" width="15"/> True Story: My smartness 💡 lies in my laziness 😴
+<img src="assets/coin.webp" width="15"/> True Story: My smartness 💡 lies in my laziness 😴
 
-<img src="assets/medal.gif" width="15"/> Have a look at my Repos💡 & do Leave a STAR⭐️ if you like my work👨‍💻.
+<img src="assets/medal.webp" width="15"/> Have a look at my Repos💡 & do Leave a STAR⭐️ if you like my work👨‍💻.
 
 <p align="center">
-  <img src="assets/divider.gif" >
+  <img src="assets/divider.webp" >
 </p>
 
-<h1> My Skills <img src="assets/skills.gif" width="40" style="margin-bottom:-8px"/> </h1>
+<h1> My Skills <img src="assets/skills.webp" width="40" style="margin-bottom:-8px"/> </h1>
 
 ## 👉 Programming languages
 
@@ -91,7 +91,7 @@
 <p align="center">
   <img src="assets/astro_cat.webp" width="50">
   Me as a code... 
-  <img src="assets/dev_boy.gif" width="50">
+  <img src="assets/dev_boy.webp" width="50">
 </p>
 
 ```dart
@@ -105,10 +105,10 @@ hungnm.skills.addAll([...languages, ...frameworks, ...databases]);
 ```
 
 <p align="center">
-  <img src="assets/divider.gif" >
+  <img src="assets/divider.webp" >
 </p>
 
-<h1> Contact Me <img src="assets/handshake.gif" width="100" style="margin-bottom:-8px"/> </h1>
+<h1> Contact Me <img src="assets/handshake.webp" width="100" style="margin-bottom:-8px"/> </h1>
 
 <a target="_blank" href="https://www.linkedin.com/in/hungnm138/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 &emsp;
@@ -121,10 +121,10 @@ hungnm.skills.addAll([...languages, ...frameworks, ...databases]);
 <a href="https://facebook.com/hungnm138"><img src="https://img.shields.io/badge/facebook-%2320A1F1.svg?&style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 <p align="center">
-  <img src="assets/divider.gif" >
+  <img src="assets/divider.webp" >
 </p>
 
-<img src="assets/coin.gif" width="15"/> Fun fact:
+<img src="assets/coin.webp" width="15"/> Fun fact:
 I once solved the world's oldest question with a single line of Dart
 
 ```dart
