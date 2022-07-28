@@ -1,4 +1,6 @@
-![Cover](assets/cover-memoji.png)
+<p align="center">
+  <img src="assets/cover-memoji.png" />
+</p>
 
 <h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="assets/hi.webp" width="30"/> </h1>
 
